@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product Category","POST category want to create a new category","SUCCESS","2023-05-06T23:01:44.5872461+07:00[Asia/Jakarta]","0.0","0.42"
+"Product Category","GET CATEGORY get all categories","SUCCESS","2023-05-06T23:01:45.0450713+07:00[Asia/Jakarta]","0.0","0.86"

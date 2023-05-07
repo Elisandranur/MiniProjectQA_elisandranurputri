@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User able to see Home Page","POST LOGIN  success to login with valid data","SUCCESS","2023-05-06T23:01:26.9563346+07:00[Asia/Jakarta]","0.0","8.82"
+"User able to see Home Page","POST LOGIN should failed to login with invalid data","SUCCESS","2023-05-06T23:01:35.8633524+07:00[Asia/Jakarta]","0.0","1.95"
+"User able to see Home Page","POST REGISTER success to create account with valid input","SUCCESS","2023-05-06T23:01:37.8931022+07:00[Asia/Jakarta]","0.0","1.11"
+"User able to see Home Page","POST REGISTER failed to create account with empty fullname","SUCCESS","2023-05-06T23:01:39.0304268+07:00[Asia/Jakarta]","0.0","0.56"
