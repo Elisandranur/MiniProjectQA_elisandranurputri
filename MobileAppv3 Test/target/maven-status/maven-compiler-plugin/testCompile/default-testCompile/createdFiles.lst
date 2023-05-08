@@ -1,0 +1,8 @@
+starter\pages\HomeStoreScreen.class
+starter\CucumberTestSuite.class
+starter\hooks\BaseDriverHooks.class
+starter\pages\LoginScreen.class
+starter\stepdefinition\LoginSteps.class
+starter\stepdefinition\AddCartSteps.class
+starter\stepdefinition\RegisterSteps.class
+starter\pages\RegisterScreen.class

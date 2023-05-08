@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="As a user i have be able to register new account so that i can login to buy product" skipped="0" tests="1" time="27.42" timestamp="2023-05-08 03:59:32"><testcase name="User not able to register with existing data register"/></testsuite>
